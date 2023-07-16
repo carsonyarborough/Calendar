@@ -1,6 +1,6 @@
 # My Calendar
 
-My Calendar is an easy way to look at the month, months in the year, and plan events on given days.
+My Calendar is an easy way to look at the current month, look at the months in the year, and plan events on given days.
 
 
 ![alt text](calendarjs.png)
